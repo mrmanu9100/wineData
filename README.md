@@ -15,6 +15,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ### `yarn add echarts`
+for adding echarts dependancy.
 
 ### `yarn test`
 
