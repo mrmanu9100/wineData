@@ -19,7 +19,17 @@ for adding echarts dependancy.
 
 ### `Screenshot for Scatter Plot`
 
+While clicking on Barchart button Scatter Plot will be opened
+
 ![Screenshot (276)](https://user-images.githubusercontent.com/93323709/218241268-404e40dc-24ef-4370-bd09-6423763c5214.png)
+
+
+### `Screenshot for Scatter Plot`
+
+-While clicking on Barchart button barchart will be opened
+
+
+![Screenshot (277)](https://user-images.githubusercontent.com/93323709/218241400-8366700a-ed3c-47cc-9cfb-bb32c0a59879.png)
 ### `yarn test`
 
 Launches the test runner in the interactive watch mode.\
