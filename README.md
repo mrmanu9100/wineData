@@ -17,6 +17,9 @@ You may also see any lint errors in the console.
 ### `yarn add echarts`
 for adding echarts dependancy.
 
+### `Screenshot for Scatter Plot`
+
+![Screenshot (276)](https://user-images.githubusercontent.com/93323709/218241268-404e40dc-24ef-4370-bd09-6423763c5214.png)
 ### `yarn test`
 
 Launches the test runner in the interactive watch mode.\
